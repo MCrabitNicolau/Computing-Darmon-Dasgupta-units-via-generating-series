@@ -1,6 +1,6 @@
 # Computing-Darmon-Dasgupta-units
 
-This project contains the code used to run the examples in the article "Generating series techniques for computing Darmon-Dasgupta units over real quadratic fields". The computations are done using Sagemath 9.5.
+This project contains the code used to run the examples of the article "Generating series techniques for computing Darmon-Dasgupta units over real quadratic fields". The computations are done using Sagemath 9.5.
 
 # Usage
 
