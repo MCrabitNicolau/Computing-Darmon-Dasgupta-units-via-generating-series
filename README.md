@@ -7,7 +7,7 @@ This project contains the code used to run the examples of the article "Generati
 Copy the files ending in .ipynb in a Jupyter notebook and run Main.ipynb. You will have to choose a discriminant $D$, a prime $p$ inert in $F=\mathbb{Q}(\sqrt{D})$ and a prime $\ell\geq 5$ different from $p$. 
 To each class in the narrow class group of $F$, will be attached two integers $c\geq0,d$ (computed by the function getgam). Make sure that $c$ is not too large before you run the computations.
 
-We ran examples for primes $p$ up to $600$, in this case, a low $p$-adic precision $M$ (for example $M=10$) is enough. 
+We ran examples for primes $p$ up to $600$, in these cases, a low $p$-adic precision $M$ (for example $M=10$) is enough. 
 
 
 
