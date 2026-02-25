@@ -4,7 +4,7 @@ This project contains the code used to run the examples of the article "Generati
 
 # Usage
 
-Copy the files ending in .ipynb in a Jupyter notebook and run Main.ipynb. You will have to choose a discriminant $D$, a prime $p$ inert in $F=\mathbb{Q}(\sqrt{D})$ and a prime $\ell\geq 5$ different from $p$. 
+Copy the files ending in .ipynb in a Jupyter notebook and run Main.ipynb. You will have to choose a discriminant $D$, a prime $p$ inert in $F=\mathbb{Q}(\sqrt{D})$ and a prime $\ell$ different from $p$ used for the smoothing. 
 To each class in the narrow class group of $F$, will be attached a $p$ unit, they are all conjugate to each other, we compute each of them to recognize their minimal polynomial over $F$.
 
 We ran examples for primes $p$ up to $600$, in these cases, a low $p$-adic precision $M$ (for example $M=10$) is enough. 
